@@ -1,7 +1,4 @@
 # Software Ventures Pty Ltd
-
-![Software Ventures Logo](https://www.softwareventures.com.au/_next/image?url=%2Fandroid-chrome-512x512.png&w=256&q=75)
-
 **Australian Innovation. Global Impact.**
 
 ## 🏢 About Us
