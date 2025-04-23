@@ -1,8 +1,8 @@
 # Software Ventures Pty Ltd
 
-**Australian Innovation. Global Impact.**
-
 ![Software Ventures Logo](https://www.softwareventures.com.au/_next/image?url=%2Fandroid-chrome-512x512.png&w=256&q=75)
+
+**Australian Innovation. Global Impact.**
 
 ## 🏢 About Us
 
@@ -32,7 +32,7 @@ To empower businesses through software — creating tools that enable growth, ef
 We're always open to new partnerships, clients, and collaborations. If you're looking for a software partner that’s reliable, experienced, and forward-thinking — let's chat!
 
 📫 **Contact Us**  
-Email: [support@softwareventures.com.au](mailto:support@softwareventures.com.au)  
+Email: [contact@softwareventures.com.au](mailto:contact@softwareventures.com.au)  
 Website: [https://softwareventures.com.au](https://softwareventures.com.au)
 
 ## 👥 Meet the Team
